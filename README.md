@@ -27,5 +27,6 @@ Programming Language:
 Java Development Environment:
 Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse Database:
 MySQL, PostgreSQL, or SQLite for storing student and grade data
+
 Result:
 <img width="521" alt="student grade tracker op" src="https://github.com/user-attachments/assets/fbd1615f-ada4-4af1-82fe-8d1a29347e6a">
